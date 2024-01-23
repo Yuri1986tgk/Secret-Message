@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Secret Message</string>
+    <string name="encrypt_text">Here is your encrypted message:</string>
+    <string name="message_hint">Please enter your secret message</string>
+    <string name="next">Next</string>
+    <string name="secret_message">Please enter your secret message</string>
+    <string name="start">START</string>
+    <string name="welcome_text">Welcome to the Secret Message app!
+        Use this app to encrypt a secret message.
+        Click on the Start button to begin.</string>
+    <style name="Base.Theme.SeckretMessage" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.SeckretMessage" parent="Base.Theme.SeckretMessage"/>
+</resources>

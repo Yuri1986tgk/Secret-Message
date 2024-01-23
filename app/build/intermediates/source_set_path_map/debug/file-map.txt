@@ -1,0 +1,50 @@
+com.hfad.seckretmessage.app-core-1.12.0-0 C:\Users\URA\.gradle\caches\transforms-3\0a992fb69dfaf79798dac4d49b167158\transformed\core-1.12.0\res
+com.hfad.seckretmessage.app-drawerlayout-1.1.1-1 C:\Users\URA\.gradle\caches\transforms-3\116e1cc5538cb0b696b9ac611100f1df\transformed\drawerlayout-1.1.1\res
+com.hfad.seckretmessage.app-fragment-ktx-1.6.2-2 C:\Users\URA\.gradle\caches\transforms-3\13b3f590fc681ed220ac7b36d212d3a1\transformed\fragment-ktx-1.6.2\res
+com.hfad.seckretmessage.app-cardview-1.0.0-3 C:\Users\URA\.gradle\caches\transforms-3\1a4354d61b59807c0c9032b03bfb82b1\transformed\cardview-1.0.0\res
+com.hfad.seckretmessage.app-appcompat-resources-1.6.1-4 C:\Users\URA\.gradle\caches\transforms-3\1c2b95e79b3b84833e5d8799ad3f29d1\transformed\appcompat-resources-1.6.1\res
+com.hfad.seckretmessage.app-annotation-experimental-1.3.0-5 C:\Users\URA\.gradle\caches\transforms-3\228863afcbb817ea985f101a96bc5f44\transformed\annotation-experimental-1.3.0\res
+com.hfad.seckretmessage.app-lifecycle-runtime-ktx-2.6.2-6 C:\Users\URA\.gradle\caches\transforms-3\22d50127b737021f9d73b3522dd50d16\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.hfad.seckretmessage.app-navigation-fragment-2.7.6-7 C:\Users\URA\.gradle\caches\transforms-3\27dafb0659a7adc62e3f342595f0004a\transformed\navigation-fragment-2.7.6\res
+com.hfad.seckretmessage.app-startup-runtime-1.1.1-8 C:\Users\URA\.gradle\caches\transforms-3\29f35b1eaf4a12c52ca9009fa587c761\transformed\startup-runtime-1.1.1\res
+com.hfad.seckretmessage.app-emoji2-views-helper-1.2.0-9 C:\Users\URA\.gradle\caches\transforms-3\348e5e8e2744bf678587b3e1256d9fd2\transformed\emoji2-views-helper-1.2.0\res
+com.hfad.seckretmessage.app-core-ktx-1.12.0-10 C:\Users\URA\.gradle\caches\transforms-3\3b9ae2c6c82b4429739cced470af4bdd\transformed\core-ktx-1.12.0\res
+com.hfad.seckretmessage.app-navigation-ui-ktx-2.7.6-11 C:\Users\URA\.gradle\caches\transforms-3\47b5671b59062c764c9894ea3c8430d1\transformed\navigation-ui-ktx-2.7.6\res
+com.hfad.seckretmessage.app-constraintlayout-2.1.4-12 C:\Users\URA\.gradle\caches\transforms-3\4e02433abdf738f8fd561c48b0279f32\transformed\constraintlayout-2.1.4\res
+com.hfad.seckretmessage.app-navigation-runtime-2.7.6-13 C:\Users\URA\.gradle\caches\transforms-3\4eaa54201dfe62cd916885b7d9855004\transformed\navigation-runtime-2.7.6\res
+com.hfad.seckretmessage.app-slidingpanelayout-1.2.0-14 C:\Users\URA\.gradle\caches\transforms-3\587623693b80e66bb7e19b9037747cf2\transformed\slidingpanelayout-1.2.0\res
+com.hfad.seckretmessage.app-viewpager2-1.0.0-15 C:\Users\URA\.gradle\caches\transforms-3\625fbf41786ffc45fa096f951cd2af8b\transformed\viewpager2-1.0.0\res
+com.hfad.seckretmessage.app-lifecycle-viewmodel-savedstate-2.6.2-16 C:\Users\URA\.gradle\caches\transforms-3\6b4bb490f3d95ec9ed45fc93e11d87d1\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.hfad.seckretmessage.app-lifecycle-process-2.6.2-17 C:\Users\URA\.gradle\caches\transforms-3\70b223311c92f13787a4e501d24a6bcd\transformed\lifecycle-process-2.6.2\res
+com.hfad.seckretmessage.app-activity-1.8.0-18 C:\Users\URA\.gradle\caches\transforms-3\73064ef97e7ccba96d2d3e6e0781c50b\transformed\activity-1.8.0\res
+com.hfad.seckretmessage.app-navigation-fragment-ktx-2.7.6-19 C:\Users\URA\.gradle\caches\transforms-3\7ec9a5c533bb94f523ae4ee6ebb63796\transformed\navigation-fragment-ktx-2.7.6\res
+com.hfad.seckretmessage.app-profileinstaller-1.3.0-20 C:\Users\URA\.gradle\caches\transforms-3\8025a341fde4862027ae497659bfbf3c\transformed\profileinstaller-1.3.0\res
+com.hfad.seckretmessage.app-lifecycle-viewmodel-2.6.2-21 C:\Users\URA\.gradle\caches\transforms-3\82086fbe2b1b357c65283722e85364ea\transformed\lifecycle-viewmodel-2.6.2\res
+com.hfad.seckretmessage.app-lifecycle-viewmodel-ktx-2.6.2-22 C:\Users\URA\.gradle\caches\transforms-3\83c5a841d7f2c1d5a446906a5ab57dd6\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.hfad.seckretmessage.app-savedstate-1.2.1-23 C:\Users\URA\.gradle\caches\transforms-3\8c94d522c77e4e34e35915ee735c788f\transformed\savedstate-1.2.1\res
+com.hfad.seckretmessage.app-navigation-ui-2.7.6-24 C:\Users\URA\.gradle\caches\transforms-3\8fb206da771ac390fc3c9375bf8ef0bc\transformed\navigation-ui-2.7.6\res
+com.hfad.seckretmessage.app-savedstate-ktx-1.2.1-25 C:\Users\URA\.gradle\caches\transforms-3\940bdf68fab2906ba8568ec158275b00\transformed\savedstate-ktx-1.2.1\res
+com.hfad.seckretmessage.app-window-1.0.0-26 C:\Users\URA\.gradle\caches\transforms-3\9a0d444026959bf9e4841a4cdc3ea16d\transformed\window-1.0.0\res
+com.hfad.seckretmessage.app-lifecycle-livedata-core-2.6.2-27 C:\Users\URA\.gradle\caches\transforms-3\a4cf0579101b94bf2cb47be486e2a2b2\transformed\lifecycle-livedata-core-2.6.2\res
+com.hfad.seckretmessage.app-fragment-1.6.2-28 C:\Users\URA\.gradle\caches\transforms-3\a51cb0b1eb3d6df3ae213a9682819fc4\transformed\fragment-1.6.2\res
+com.hfad.seckretmessage.app-material-1.11.0-29 C:\Users\URA\.gradle\caches\transforms-3\a690b269fdae87765d7d9b2f00727dff\transformed\material-1.11.0\res
+com.hfad.seckretmessage.app-coordinatorlayout-1.1.0-30 C:\Users\URA\.gradle\caches\transforms-3\b72d40ca4c0880ebd6f3d888d4f8bae8\transformed\coordinatorlayout-1.1.0\res
+com.hfad.seckretmessage.app-transition-1.4.1-31 C:\Users\URA\.gradle\caches\transforms-3\bc3d4ded95f4f2046ff8d4a3e1f0057a\transformed\transition-1.4.1\res
+com.hfad.seckretmessage.app-recyclerview-1.1.0-32 C:\Users\URA\.gradle\caches\transforms-3\bcfb46fb77e495bad5635ae20916d878\transformed\recyclerview-1.1.0\res
+com.hfad.seckretmessage.app-emoji2-1.2.0-33 C:\Users\URA\.gradle\caches\transforms-3\be554354f11e19abc6f185866628b961\transformed\emoji2-1.2.0\res
+com.hfad.seckretmessage.app-navigation-runtime-ktx-2.7.6-34 C:\Users\URA\.gradle\caches\transforms-3\c1073cd30464780993cfe2ff3c958c58\transformed\navigation-runtime-ktx-2.7.6\res
+com.hfad.seckretmessage.app-lifecycle-livedata-core-ktx-2.6.2-35 C:\Users\URA\.gradle\caches\transforms-3\c1a92cd4be79d10e07047a355c46c6ea\transformed\lifecycle-livedata-core-ktx-2.6.2\res
+com.hfad.seckretmessage.app-navigation-common-2.7.6-36 C:\Users\URA\.gradle\caches\transforms-3\c5039d6d7e482ac4c8c7a32d9372e929\transformed\navigation-common-2.7.6\res
+com.hfad.seckretmessage.app-core-runtime-2.2.0-37 C:\Users\URA\.gradle\caches\transforms-3\c8a1f78857fe3061c3dd6a3d6e795149\transformed\core-runtime-2.2.0\res
+com.hfad.seckretmessage.app-appcompat-1.6.1-38 C:\Users\URA\.gradle\caches\transforms-3\dbe3962d9aec76139097d4ab0707e85b\transformed\appcompat-1.6.1\res
+com.hfad.seckretmessage.app-lifecycle-runtime-2.6.2-39 C:\Users\URA\.gradle\caches\transforms-3\decd6bdd205b98b7948b8dc018fc8c78\transformed\lifecycle-runtime-2.6.2\res
+com.hfad.seckretmessage.app-lifecycle-livedata-2.6.2-40 C:\Users\URA\.gradle\caches\transforms-3\f3c5c47a3d7862972fa35d2cc07c9555\transformed\lifecycle-livedata-2.6.2\res
+com.hfad.seckretmessage.app-activity-ktx-1.8.0-41 C:\Users\URA\.gradle\caches\transforms-3\f804fd5eb4b5ebc46395879d195515f3\transformed\activity-ktx-1.8.0\res
+com.hfad.seckretmessage.app-navigation-common-ktx-2.7.6-42 C:\Users\URA\.gradle\caches\transforms-3\f96a99b6bd792aa58880a1f41d3c6be3\transformed\navigation-common-ktx-2.7.6\res
+com.hfad.seckretmessage.app-pngs-43 D:\Kotlin projects\HeadFirst\SeckretMessage\app\build\generated\res\pngs\debug
+com.hfad.seckretmessage.app-resValues-44 D:\Kotlin projects\HeadFirst\SeckretMessage\app\build\generated\res\resValues\debug
+com.hfad.seckretmessage.app-packageDebugResources-45 D:\Kotlin projects\HeadFirst\SeckretMessage\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.hfad.seckretmessage.app-packageDebugResources-46 D:\Kotlin projects\HeadFirst\SeckretMessage\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.hfad.seckretmessage.app-merged_res-47 D:\Kotlin projects\HeadFirst\SeckretMessage\app\build\intermediates\merged_res\debug
+com.hfad.seckretmessage.app-debug-48 D:\Kotlin projects\HeadFirst\SeckretMessage\app\src\debug\res
+com.hfad.seckretmessage.app-main-49 D:\Kotlin projects\HeadFirst\SeckretMessage\app\src\main\res
